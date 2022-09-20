@@ -1,0 +1,15 @@
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\bin\Debug\net6.0\ProgHotelPottencial.exe
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\bin\Debug\net6.0\ProgHotelPottencial.deps.json
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\bin\Debug\net6.0\ProgHotelPottencial.runtimeconfig.json
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\bin\Debug\net6.0\ProgHotelPottencial.dll
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\bin\Debug\net6.0\ProgHotelPottencial.pdb
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.csproj.AssemblyReference.cache
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.AssemblyInfoInputs.cache
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.AssemblyInfo.cs
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.csproj.CoreCompileInputs.cache
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.dll
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\refint\ProgHotelPottencial.dll
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.pdb
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ProgHotelPottencial.genruntimeconfig.cache
+C:\Users\Oem\Documents\GitHub\ProgHotelPottencial\obj\Debug\net6.0\ref\ProgHotelPottencial.dll
